@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: tao-open-source\n"
-"PO-Revision-Date: 2024-04-09 07:36\n"
+"PO-Revision-Date: 2025-12-05 08:38\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
 "Language: pt\n"
@@ -273,7 +273,7 @@ msgid "Resource with `%s` uri not found"
 msgstr "Recurso com `%s` uri não encontrado"
 
 msgid "Revoke"
-msgstr ""
+msgstr "Revogar"
 
 msgid "Role is not allowed."
 msgstr "Função não permitida."
@@ -351,7 +351,7 @@ msgid "Workstation name"
 msgstr "Nome da estação"
 
 msgid "Workstation:"
-msgstr ""
+msgstr "Estação:"
 
 msgid "You must select at least one test center!"
 msgstr "Você deve selecionar pelo menos um centro de teste!"
